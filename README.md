@@ -1,0 +1,2 @@
+# doorLock
+smartDialPadDoorLock
